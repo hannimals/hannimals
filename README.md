@@ -2,9 +2,8 @@
 <h3 align="center">A dedicated Junior Developer from Colombia | Tech & Entrepreneurship Enthusiast </h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/yourgifid.gif" width="500" alt="Tainy data gif"/>
+  <img src="assets/tainy-data.gif" width="500" alt="Tainy data gif"/>
 </p>
-
 
 
 <!-- 🔥 Animated profile views -->
