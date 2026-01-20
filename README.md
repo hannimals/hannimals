@@ -18,10 +18,10 @@
 </p>
 
 ### About Me
-- 🔭 I’m currently working on **a currency exchange app**  
-- 🌱 I’m currently learning **Flutter, Data Science with Python, Cybersecurity, and the business side of tech**  
+- 🔭 I’m currently working on **a birthday greeting app**  
+- 🌱 I’m currently learning **Data Science with Python, Cybersecurity, Web development, and the business side of tech**  
 - 👯 I’m looking to collaborate on **cloud-native projects**  
-- 🤝 I’m looking for help with **beginner-friendly open-source projects in Python and Flutter**  
+- 🤝 I’m looking for help with **beginner-friendly open-source projects**  
 - 💬 Ask me about **turning ideas into MVPs, visualizing data, or creative app design ideas**  
 - 📫 How to reach me: **hannaveroj@gmail.com**  
 - ⚡ Fun fact: **I placed in the top 10 of a national entrepreneurship competition — now I’m learning to turn code into products**
