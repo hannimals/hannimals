@@ -54,18 +54,19 @@
 </p>
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannimals&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hannimals" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hannimals&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hannimals" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannimals&show_icons=true&locale=en&theme=tokyonight" alt="hannimals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannimals&show_icons=true&locale=en&theme=tokyonight" alt="hannimals" />
 </p>
 
 ---
+<!--- indsæt wavyng gift--->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/61/6f/6f616f864ad9a5a26a78d7cc0739ee71.gif" width="250" alt="cute waving anime character"/>
+  &nbsp;<img src="https://i.pinimg.com/originals/6f/61/6f/6f616f864ad9a5a26a78d7cc0739ee71.gif" width="250" alt="cute waving anime character"/>
 </p>
 
 ⭐️ *“He who has a why, can bear almost any how”*  
