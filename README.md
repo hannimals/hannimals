@@ -31,7 +31,8 @@
 <a href="https://linkedin.com/in/hanna-vera-rojas" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-</p>
+  <img align="left" src="assets/peak.png" height="60"/>
+</p><br>
 
 
 ### Languages and Tools:
@@ -54,20 +55,23 @@
 </p>
 
 ### 📊 GitHub Stats:
+<p> <img align = "left" src = "assets/nishinoya.gif" height="80"/> </p> <br>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hannimals&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hannimals" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hannimals&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="hannimals" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannimals&show_icons=true&locale=en&theme=tokyonight" alt="hannimals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannimals&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="hannimals" />
 </p>
 
 ---
 <!--- indsæt wavyng gift--->
 
-<p align="center">
-  &nbsp;<img src="https://i.pinimg.com/originals/6f/61/6f/6f616f864ad9a5a26a78d7cc0739ee71.gif" width="250" alt="cute waving anime character"/>
+<p align="left">
+  <img src="assets/waving.gif" width="100" alt="'todo my brotherr'"/>
 </p>
 
 ⭐️ *“He who has a why, can bear almost any how”*  
+<p><img src="assets/pawpaw.gif" widht="50"/></p>
 
