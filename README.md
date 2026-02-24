@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/English-blue?style=for-the-badge">
+  </a>
+  <a href="README.es.md">
+    <img src="https://img.shields.io/badge/Español-red?style=for-the-badge">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Hanna Vera Rojas</h1>
 <h3 align="center">A dedicated Junior Developer from Colombia | Tech & Entrepreneurship Enthusiast </h3>
 
@@ -18,21 +26,21 @@
 </p>
 
 ### About Me
-- 🔭 I’m currently working on **a birthday greeting app**  
+- 🔭 I’m currently working on **a birthday greeting app that implements AI cloned voices** and **a maze generator using DFS**
 - 🌱 I’m currently learning **Data Science with Python, Cybersecurity, Web development, and the business side of tech**  
 - 👯 I’m looking to collaborate on **cloud-native projects**  
-- 🤝 I’m looking for help with **beginner-friendly open-source projects**  
+- 🤝 I’m looking for help with **beginner-friendly open-source projects** but im open to creating new projects for learning purposes or product making purposes
 - 💬 Ask me about **turning ideas into MVPs, visualizing data, or creative app design ideas**  
-- 📫 How to reach me: **hannaveroj@gmail.com**  
+- 📫 How to reach me: **hannaveroj@gmail.com** 
 - ⚡ Fun fact: **I placed in the top 10 of a national entrepreneurship competition — now I’m learning to turn code into products**
 
 ### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/hanna-vera-rojas" target="_blank">
+<div>
+  <a href="https://linkedin.com/in/hanna-vera-rojas" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
   <img align="left" src="assets/peak.png" height="60"/>
-</p><br>
+</div> <br>
 
 
 ### Languages and Tools:
@@ -65,12 +73,17 @@
   <img src="https://github-readme-stats-ashy-seven-19.vercel.app/api?username=hannimals&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
 
 </div>
----
+<hr>
 <!--- indsæt wavyng gift--->
 
 <p align="left">
   <img src="assets/waving.gif" width="150" alt="'todo my brotherr'"/>
 </p>
+Find me on discord:
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-hannimals777-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
 
 ⭐️ *“He who has a why, can bear almost any how”*  
 <p><img src="assets/pawpaw.gif" widht="50"/></p>
