@@ -55,21 +55,21 @@
 </p>
 
 ### 📊 GitHub Stats:
-<p> <img align = "left" src = "assets/nishinoya.gif" height="80"/> </p> <br>
 
-<p align="left">
-  <img src="https://github-readme-stats-ashy-seven-19.vercel.app/api/top-langs?username=hannimals&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="hannimals" />
-</p>
+<div style="display: flex; align-items: center; gap: "20px";">
 
-<p>
-  <img align="center" src="https://github-readme-stats-ashy-seven-19.vercel.app/api?username=hannimals&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="hannimals" />
-</p>
+  <img src="assets/nishinoya.gif" height="90"/> <br>
 
+  <img src="https://github-readme-stats-ashy-seven-19.vercel.app/api/top-langs?username=hannimals&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+
+  <img src="https://github-readme-stats-ashy-seven-19.vercel.app/api?username=hannimals&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+
+</div>
 ---
 <!--- indsæt wavyng gift--->
 
 <p align="left">
-  <img src="assets/waving.gif" width="100" alt="'todo my brotherr'"/>
+  <img src="assets/waving.gif" width="150" alt="'todo my brotherr'"/>
 </p>
 
 ⭐️ *“He who has a why, can bear almost any how”*  
