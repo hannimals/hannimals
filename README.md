@@ -7,7 +7,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Hanna Vera Rojas</h1>
-<h3 align="center">A dedicated Junior Developer from Colombia | Tech & Entrepreneurship Enthusiast </h3>
+<h3 align="center">A dedicated Student & Developer from Colombia | Tech & Entrepreneurship Enthusiast </h3>
 
 <p align="center">
   <img src="assets/tainy-data.gif" width="500" alt="Tainy data gif"/>
